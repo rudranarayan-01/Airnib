@@ -15,5 +15,26 @@
 ## Login modal (remember error codes)
 ## Signup modal (remember error codes)
 ## Setup Docker for django with postgres
-# Create usermodel / config
+## Create usermodel / config
 ## Create app for properties
+
+## Create model and Serializer for properties(DRF)
+## Get properties from Frontend and list them on the front page
+## Implement Auth (Login, Signup, Logout)
+## Add properties from next.js (Create model, API endpoint, Send data)
+
+## Detail page for properties
+## Landlord dynamic
+## My properties dynamic
+## My reservation dynamic
+## Make it possible to set properties
+## My favorites page(listing)
+## Conversation page dynamic
+## 
+
+## Setup Websocket
+## Make it possible for connect
+## send and receive messages
+## store and load message
+## start new conversation
+## 

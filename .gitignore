@@ -37,4 +37,16 @@
 ## send and receive messages
 ## store and load message
 ## start new conversation
-## 
+## Setting Up search Filter(Country, Calender, Category, Price, etc)
+
+
+## Deploymentg
+## Setting up github
+## Create Server on digital ocen and set it up
+## Backend 
+    - Create environment
+    - Get Code from git
+    - Rest of server stuff
+## Frontend
+    - Node, ngnix
+    - get code from git

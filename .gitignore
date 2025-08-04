@@ -6,3 +6,14 @@
 ## List properties on the front page(static)
 ## Detail page for properties
 ## Landlord page (static)
+## My reservation (Static)
+## My properties (Static)
+## Inbox page (Static)
+## Detail page for chat (static)
+## User menu popup
+## Create reusable modal window
+## Login modal (remember error codes)
+## Signup modal (remember error codes)
+## Setup Docker for django with postgres
+# Create usermodel / config
+## Create app for properties

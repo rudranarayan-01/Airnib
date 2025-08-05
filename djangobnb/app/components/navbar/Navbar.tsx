@@ -10,8 +10,11 @@ const Navbar = () => {
                     <Link href="/" className=''>
                         <Image src={"/logo.png"} alt="Logo" width={180} height={40} className='inline-block mr-2' />
                     </Link>
-                    <div className='flex space-x-6 items-center'>
+                    <div className='flex space-x-6 '>
                         Search filter
+                    </div>
+                    <div className='flex space-x-6 items-center'>
+                        Add properties - User nav
                     </div>
                 </div>
             </div>

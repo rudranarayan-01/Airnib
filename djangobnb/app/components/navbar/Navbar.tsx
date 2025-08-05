@@ -9,7 +9,7 @@ const Navbar = () => {
             <div className='max-w-[1500px] mx-auto px-6'>
                 <div className='flex justify-between items-center'>
                     <Link href="/" className=''>
-                        <Image src={"/logo.png"} alt="Logo" width={180} height={40} className='inline-block mr-2' />
+                        <Image src={"/logo.png"} alt="Logo" width={150} height={34} className='inline-block mr-2' />
                     </Link>
                     <div className='flex space-x-6 '>
                         <SearchFilters/>

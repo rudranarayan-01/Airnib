@@ -1,9 +1,11 @@
 import React from 'react'
 
 const AddPropertyButton = () => {
-  return (
-    <div>AddPropertyButton</div>
-  )
+    return (
+        <div className='p-2 text-sm font-semibold rounded-r-full hover:bg-gray-200'>
+            Add Property
+        </div>
+    )
 }
 
 export default AddPropertyButton
